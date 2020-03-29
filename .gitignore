@@ -1,0 +1,13 @@
+.vs
+AppClass.Common/bin
+AppClass.Common/obj
+AppClass.Data/bin
+AppClass.Data/obj
+AppClass.Repo/bin
+AppClass.Repo/obj
+AppClass.Services/bin
+AppClass.Services/obj
+AppClass.Presentation/bin
+AppClass.Presentation/obj
+AppClass.Common/bin
+AppClass.Common/obj
